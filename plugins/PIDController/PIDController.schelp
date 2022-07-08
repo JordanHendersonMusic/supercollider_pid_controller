@@ -1,0 +1,26 @@
+class:: PIDController
+summary:: A PID controller
+related:: TODO
+categories:: UGens>TODO
+
+description::
+
+A PID controller
+
+
+classmethods::
+
+method::ar, kr
+
+argument::TODO
+
+argument::TODO
+
+
+examples::
+
+code::
+
+{ PIDController.ar(/* TODO */) }.play
+
+::
