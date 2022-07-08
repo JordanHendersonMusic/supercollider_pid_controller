@@ -12,9 +12,13 @@ classmethods::
 
 method::ar, kr
 
-argument::TODO
+argument::input
 
-argument::TODO
+argument::freq
+
+argument::zeta
+
+argument::r
 
 
 examples::
